@@ -1,5 +1,5 @@
-# shelf-products-csharp
-A windows form application example
+# Windows form C# application example
+
 
 This example demonstrates how to create a windows form application using Entity Framework 6. 
 
